@@ -1,0 +1,8 @@
+
+{
+  "name": "Gaming Club Kaithal",
+  "description": "A premium gamer-centric portal for Gaming Club Kaithal featuring PS5, VR2, 4K gaming, and unique play-to-earn cash rewards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
