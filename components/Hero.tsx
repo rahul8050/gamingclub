@@ -40,7 +40,7 @@ const Hero: React.FC<HeroProps> = ({ onPricingClick, onGalleryClick }) => {
               >
                 WHATSAPP TO BOOK <MessageCircle className="w-5 h-5" />
               </a>
-              
+                
             </div>
 
             <div className="mt-12 grid grid-cols-3 gap-6">

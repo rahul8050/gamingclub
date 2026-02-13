@@ -21,11 +21,11 @@ export const GAMES: GameCardProps[] = [
   { title: "NEED FOR SPEED HEAT", imageUrl: "/images/speed.jpg" },
   { title: "ASSASSIN’S CREED VALHALLA", imageUrl: "/images/assissins creed.jpg" },
   { title: "FORZA HORIZON 5", imageUrl: "/images/forza.jpg" },
-  { title: "VR2", imageUrl: "" },
-  { title: "NARUTO", imageUrl: "https://picsum.photos/seed/naruto/400/225" },
-  { title: "UFC", imageUrl: "https://picsum.photos/seed/ufc/400/225" },
-  { title: "NBA NK26", imageUrl: "https://picsum.photos/seed/nba/400/225" },
-  { title: "HIT MAN", imageUrl: "https://picsum.photos/seed/hitman/400/225" },
+  { title: "VR2", imageUrl: "/images/1.jpg" },
+  { title: "NARUTO", imageUrl: "/images/2.jpg" },
+  { title: "UFC", imageUrl: "/images/5.jpg" },
+  { title: "NBA NK26", imageUrl: "/images/3.jpg" },
+  { title: "HIT MAN", imageUrl: "/images/4.jpg" },
   { title: "HORIZON CALL OF THE MOUNTAIN", imageUrl: "https://picsum.photos/seed/horizon/400/225" },
 ];
 
